@@ -4,7 +4,7 @@ High-resolution channel logos sourced from Plex's Gracenote lineup feeds.
 
 ## Logo collections
 
-- `logos/directv-new-york/` — 848 DIRECTV New York lineup logos
+- `logos/directv-new-york/` — 849 DIRECTV New York lineup logos
 - `logos/verizon-fios-queens/` — 629 Verizon Fios Queens lineup logos
 - `logos/spectrum-northern-manhattan/` — 612 Charter Spectrum Northern Manhattan lineup logos
 - `logos/optimum-new-york/` — 600 Optimum New York lineup logos
