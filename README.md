@@ -11,6 +11,14 @@ High-resolution channel logos sourced from Plex's Gracenote lineup feeds.
 
 Files retain their Plex source resolution and are named using channel number, channel name, call sign, and HD designation where available.
 
+## Catalog artwork
+
+- `Catalogs/Collections/` — 24 collection images
+- `Catalogs/Decades/` — 11 decade images and one JSON index
+- `Catalogs/Genre/` — 19 genre images
+- `Catalogs/Streaming/` — 34 streaming-service images, including animated variants
+- `Catalogs/Actors/` and `Catalogs/Directors/` — reserved for future artwork
+
 ## Raw URL format
 
 ```text
@@ -18,4 +26,5 @@ https://raw.githubusercontent.com/ayala/iptv-resources/main/logos/directv-new-yo
 https://raw.githubusercontent.com/ayala/iptv-resources/main/logos/verizon-fios-queens/<filename>.png
 https://raw.githubusercontent.com/ayala/iptv-resources/main/logos/spectrum-northern-manhattan/<filename>.png
 https://raw.githubusercontent.com/ayala/iptv-resources/main/logos/optimum-new-york/<filename>.png
+https://raw.githubusercontent.com/ayala/iptv-resources/main/Catalogs/<category>/<filename>
 ```
