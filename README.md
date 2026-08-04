@@ -8,7 +8,7 @@ High-resolution channel logos sourced from Plex's Gracenote lineup feeds.
 - `logos/verizon-fios-queens/` — 629 Verizon Fios Queens lineup logos
 - `logos/spectrum-northern-manhattan/` — 612 Charter Spectrum Northern Manhattan lineup logos
 - `logos/optimum-new-york/` — 600 Optimum New York lineup logos
-- `logos/channel-logos/` — 296 normalized US and Mexico channel logos for automated matching
+- `logos/channel-logos/` — 302 normalized US and Mexico channel logos for automated matching
 
 Files retain their Plex source resolution and are named using channel number, channel name, call sign, and HD designation where available.
 
